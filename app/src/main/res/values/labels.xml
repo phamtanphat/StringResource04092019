@@ -2,4 +2,8 @@
 <resources>
 
     <string name="label_tieude">Đăng nhập hệ thống</string>
+    <string name="label_hint_edt_taikhoan">Nhập tài khoản</string>
+    <string name="label_hint_edt_matkhau">Nhập mật khẩu</string>
+    <string name="label_dangnhap">Đăng nhập</string>
+    <string name="label_thongtin">Tài khoản:</string>
 </resources>

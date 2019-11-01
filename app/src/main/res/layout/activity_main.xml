@@ -17,10 +17,9 @@
        android:id="@+id/textviewTieude"
        android:layout_width="wrap_content"
        android:layout_height="wrap_content"/>
-
     <EditText
         android:textSize="20sp"
-        android:hint="Nhập tài khoản"
+        android:hint="@string/label_hint_edt_taikhoan"
         android:layout_marginTop="40dp"
         android:layout_below="@id/textviewTieude"
         android:id="@+id/edittextTaikhoan"
@@ -28,7 +27,7 @@
         android:layout_height="wrap_content" />
     <EditText
         android:textSize="20sp"
-        android:hint="Nhập mật khẩu"
+        android:hint="@string/label_hint_edt_matkhau"
         android:layout_marginTop="40dp"
         android:layout_below="@id/edittextTaikhoan"
         android:id="@+id/edittextMatkhau"
@@ -39,14 +38,14 @@
         android:layout_marginTop="150dp"
         android:layout_centerHorizontal="true"
         android:layout_below="@id/edittextMatkhau"
-        android:text="Đăng nhập"
+        android:text="@string/label_dangnhap"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
     <TextView
         android:layout_margin="10dp"
         android:textSize="20dp"
         android:layout_below="@id/buttonDangnhap"
-        android:text="Tài khoản:"
+        android:text="@string/label_thongtin"
         android:id="@+id/textviewketqua"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
