@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StringResource04092019</string>
+    <string name="label_dangnhap">Login</string>
+    <string name="label_tieude">Login System</string>
+    <string name="label_thongtin">Info user</string>
+    <string name="label_hint_edt_taikhoan">Input Username</string>
+    <string name="label_hint_edt_matkhau">Input Password</string>
+    <string name="label_info_taikhoan">"User : "</string>
+    <string name="label_info_matkhau">"Password : "</string>
+</resources>

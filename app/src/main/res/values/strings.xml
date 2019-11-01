@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">StringResource04092019</string>
+    <string name="label_info_taikhoan">User</string>
+    <string name="label_info_matkhau">Password</string>
 </resources>

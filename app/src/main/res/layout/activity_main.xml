@@ -46,7 +46,7 @@
         android:textSize="20dp"
         android:layout_below="@id/buttonDangnhap"
         android:text="@string/label_thongtin"
-        android:id="@+id/textviewketqua"
+        android:id="@+id/textviewThongtin"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
 </RelativeLayout>

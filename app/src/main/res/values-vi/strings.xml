@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StringResource04092019</string>
+    <string name="label_hint_edt_matkhau">Nhập mật khẩu</string>
+    <string name="label_hint_edt_taikhoan">Nhập tài khoản</string>
+    <string name="label_thongtin">Tài khoản:</string>
+    <string name="label_tieude">Đăng nhập hệ thống</string>
+    <string name="label_dangnhap">Đăng nhập</string>
+    <string name="label_info_taikhoan">Tài khoản :</string>
+    <string name="label_info_matkhau">Mật khẩu :</string>
+</resources>
